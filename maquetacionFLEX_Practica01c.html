@@ -1,0 +1,102 @@
+<!DOCTYPE html>
+<html lang="es">
+
+<head>
+    <meta charset="UTF-8">
+    <!-- Esta me asegura que mi página web se adapta a cada dispositivo -->
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <!-- Enlace al documento de estilos CSS -->
+    <link rel="stylesheet" href="estilos.css">
+    <meta name="description" content="Flex maquetación">
+    <meta name="keywords" content="maquetación,flex, display, flor, div, nav">
+    <meta name="author" content="Alba Sedeño Riado">
+    <!-- icono en el navegador -->
+    <link rel=" icon" type="img/png" href="img/mundo.png" />
+
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Dancing+Script&display=swap" rel="stylesheet">
+
+    <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Rancho&effect=shadow-multiple|3d-float">
+    <title>Maquetación FLEX Práctica 01-C ~ Alba Sedeño Riado</title>
+    <!-- Alba Sedeño Riado -->
+</head>
+
+<body>
+    <header>
+        <h1>Ejemplo de maquetación con FLEX</h1>
+        <h2>by Alba Sedeño Riado para Diseño de Interfaces Web</h2>
+    </header>
+
+    <hr>
+
+    <main>
+        <!-- El container sobraría, con poner main sería suficiente -->
+        <div class="container"> 
+            <nav>
+                <ul>
+                    <li><a href="">Inicio</a></li>
+                    <li><a href="">Galería</a></li>
+                    <li><a href="">Productos</a></li>
+                    <li><a href="">Clientes</a></li>
+                    <li><a href="">Sobre nosotros</a></li>
+                    <li><a href="">Contacto</a></li>
+                </ul>
+            </nav>
+            <!-- Esto podría haberlo hecho en dos secciones, dos filas. Un div con container 1 y otro container2  -->
+
+            <figure id="figure1">
+                <img src="img/caña1.jpg" id="imagen1" alt="">
+                <figcaption>Atardecer en contraste con las finas flores de las cañas de azúcar, conocidas como "Verolis"
+                </figcaption>
+            </figure>
+
+            <figure class="restoFigures" id="figure2">
+                <img src="img/2.jpg" alt="" width="20%">
+                <figcaption>Imagen de flor de la caña de azúcar</figcaption>
+            </figure>
+
+            <figure class="restoFigures" id="figure3">
+                <img src="img/caña.jpg" alt="" width="20%">
+                <figcaption>Flor a la luz del día</figcaption>
+            </figure>
+
+            <figure class="restoFigures">
+                <img src="img/2.jpg" alt="" width="20%">
+                <figcaption>Verolis y desenfoque</figcaption>
+            </figure>
+
+            <figure class="restoFigures">
+                <img src="img/florcaña.jpg" alt="" width="20%">
+                <figcaption>Flor con gran enfoque</figcaption>
+            </figure>
+
+        </div>
+    </main>
+
+    <hr>
+
+    <footer>
+        <div>
+            <address>
+                Alba Sedeño Riado, 2ºDAW
+            </address>
+
+            <p>Padules, Almería</p>
+        </div>
+
+        <div>
+            <p>Fotos realizadas en la finca El Marchalejo</p>
+        </div>
+
+        <div>
+            <img src="img/facebook.webp" alt="">
+            <img src="img/instagram.png" alt="">
+            <img src="img/x.png" alt="">
+        </div>
+
+    </footer>
+
+</body>
+
+</html>
