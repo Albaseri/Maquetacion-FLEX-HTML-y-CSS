@@ -24,10 +24,6 @@ El resultado final del proyecto puede ser visualizado [aquí](enlace a la págin
 - CSS3 (Flexbox)
 - Google Fonts
 
-## 📅 Versionado
-
-Se utiliza control de versiones a través de Git. Puedes encontrar el repositorio completo en [mi GitHub](https://github.com/Albaseri) .
-
 ## ✍️ Autores
 
 - Alba Sedeño Riado 
