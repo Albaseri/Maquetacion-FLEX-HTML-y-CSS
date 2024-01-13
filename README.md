@@ -1,4 +1,4 @@
-# 🎨 Maquetación FLEX Práctica 01-C ~ Alba Sedeño Riado
+# 💻 Maquetación FLEX Práctica 01-C ~ Alba Sedeño Riado
 
 ## 📝 Descripción del Proyecto
 
@@ -6,9 +6,9 @@ Este proyecto es un ejemplo de maquetación utilizando Flexbox en HTML y CSS. La
 
 ## 📁 Contenido del Proyecto
 
-- **/img**</font>: Directorio que contiene las imágenes utilizadas en la maquetación.
-- **estilos.css**: Archivo CSS que define los estilos para la maquetación.
-- **maquetacionFLEX_Practica01c.html**: Archivo HTML principal que estructura la página web.
+- 🖼️ **/img**</font>: Directorio que contiene las imágenes utilizadas en la maquetación.
+- 🎨 **estilos.css**: Archivo CSS que define los estilos para la maquetación.
+- 📄 **maquetacionFLEX_Practica01c.html**: Archivo HTML principal que estructura la página web.
 
 ## 🚀 Desarrollo del Proyecto
 
@@ -28,7 +28,7 @@ El resultado final del proyecto puede ser visualizado en el archivo HTML **maque
 
 Se utiliza control de versiones a través de Git. Puedes encontrar el repositorio completo en [GitHub](https://github.com/Albaseri).
 
-## ✍️ Autores
+## ✍🏼 Autores
 
 - **Alba Sedeño Riado**
 
@@ -41,4 +41,4 @@ Este proyecto se encuentra liberado de derechos y su uso es completamente libre.
 
 ### 🌐 Recursos Adicionales
 
-- [Mi perfil en GitHub](https://github.com/Albaseri)
+- [Mi perfil en LinkedIn](https://www.linkedin.com/in/alba-sede%C3%B1o-168895114/)
