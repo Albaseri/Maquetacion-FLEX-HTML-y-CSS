@@ -1,6 +1,6 @@
 # 🎨 Maquetación FLEX Práctica 01-C ~ Alba Sedeño Riado
 
-## Descripción del Proyecto
+## 📝 Descripción del Proyecto
 
 Este proyecto es un ejemplo de maquetación utilizando Flexbox en HTML y CSS. La maquetación incluye un encabezado, secciones principal y de pie de página, así como estilos aplicados para adaptarse a diferentes dispositivos.
 
